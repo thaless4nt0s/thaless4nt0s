@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaless4nt0s&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<a href="https://www.linkedin.com/in/thales-da-silva-santos-7588451b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="[https://www.linkedin.com/in/thales-da-silva-santos-7588451b5/](https://www.linkedin.com/in/thales-da-silva-7588451b5/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ## &nbsp; Conhecimento em
 <br>
