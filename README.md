@@ -12,7 +12,7 @@
     👯 Busco vaga de estágio na área de desenvolvimento web
   </li>
   <li>
-    🔩 Experiência de 5 meses (outubro 2021 - fevereiro 2022) na empresa NWSoft, atuando na manutenção do sistema e no desenvolvimento de novas funcionalidades
+    🔩 Experiência de 10 meses (outubro 2021 - julho 2022) na empresa NWSoft, atuando na manutenção do sistema e no desenvolvimento de novas funcionalidades
   </li>
   <li>
     <ul>
