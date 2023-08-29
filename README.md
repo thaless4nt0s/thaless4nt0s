@@ -19,7 +19,7 @@
     <li> 📚 Certificações</li>
       <li> Curso de JavaScript FullStack OneBitCode - 2021 (50 horas) </li>
       <li> Curso de PHP avançado Universidade do Trabalho Digital - 2018 (120 horas)</li>
-      <li> Curso de inglês do básico ao intermediário Centro de Linguas Estrangeiras do Ceará - 2016.2 - 2018.1 </li>
+      <li> Curso de inglês do básico ao intermediário Centro de Linguas Estrangeiras do Ceará - 2016.2 - 2018.2 </li>
       <li> Curso de espanhol Núcleo de Linguas estrangeiras - UECE - 2023.1 - atualmente </li>
      </ul>
   </li>
