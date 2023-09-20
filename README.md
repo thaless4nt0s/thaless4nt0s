@@ -53,6 +53,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-<h3><p></p>If you want to contact: send a message on LinkedIn or send an email to thales.infor144@gmail.com</h3>p></h3>
+<h3><p>If you want to contact: send a message on LinkedIn or send an email to thales.infor144@gmail.com</p></h3>
 
 ### Best Regards, Thales da Silva Santos !
