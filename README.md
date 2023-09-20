@@ -12,7 +12,7 @@
   </li>
   <li>
     <ul>
-    <li> 📚 Certificações</li>
+    <li> 📚 certifications </li>
       <li> JavaScript FullStack OneBitCode - 2021 (50 horas) </li>
       <li> PHP advanced Universidade do Trabalho Digital - 2018 (120 horas)</li>
       <li> Fluent in english</li>
@@ -21,7 +21,7 @@
   </li>
   <li>
     <ul>
-      <li>Skills: </li>
+      <li>🎓 Skills: </li>
       <li>Proactive</li>
       <li>Self-taught</li>
       <li>Organized</li>
