@@ -1,35 +1,32 @@
-### Fala galera, me chamo Thales 👋
+### Welcome to my profile !
+### My name is Thales. I'm 22 years old
+### I'm a Web Developer FullStack 👋
 
 
 <ul>
   <li>
-    👨‍💻 Estudante de Ciência da Computação IFCE Campus Maracanaú (2020.1 - presente)
+    🎓 Studying Computer Science at IFCE Campus Maracanaú, graduation in December 2023.
   </li>
   <li>
-    🌱 Atualmente estou aprendendo Typescript
-  </li>
-  <li>
-    👯 Busco vaga de estágio na área de desenvolvimento web
-  </li>
-  <li>
-    🔩 Experiência de 10 meses (outubro 2021 - julho 2022) na empresa NWSoft, atuando na manutenção do sistema e no desenvolvimento de novas funcionalidades
+    I've worked as a Web Developer fullstack at NWSOFT (OCT/2021 - JUL/2022) company, I've worked with PHP, MYSQL, HTML, CSS, JAVASCRIPT and AWS technologies;
   </li>
   <li>
     <ul>
     <li> 📚 Certificações</li>
-      <li> Curso de JavaScript FullStack OneBitCode - 2021 (50 horas) </li>
-      <li> Curso de PHP avançado Universidade do Trabalho Digital - 2018 (120 horas)</li>
-      <li> Curso de inglês do básico ao intermediário Centro de Linguas Estrangeiras do Ceará - 2016.2 - 2018.2 </li>
-      <li> Curso de espanhol Núcleo de Linguas estrangeiras - UECE - 2023.1 - atualmente </li>
+      <li> JavaScript FullStack OneBitCode - 2021 (50 horas) </li>
+      <li> PHP advanced Universidade do Trabalho Digital - 2018 (120 horas)</li>
+      <li> Fluent in english</li>
+      <li> Studying spanish in Núcleo de Linguas estrangeiras - UECE - 2023.1 - nowadays </li>
      </ul>
   </li>
   <li>
     <ul>
-      <li>⏱️ Passatempos</li>
-      <li>Jogar Futebol</li>
-      <li>Ler livros</li>
-      <li>Assistir filmes e séries</li>
-      <li>Jogar online com os amigos </li>
+      <li>Skills: </li>
+      <li>Proactive</li>
+      <li>Self-taught</li>
+      <li>Organized</li>
+      <li>Motivated</li>
+      <li>SCRUM/KANBAN</li>
      </ul>
   </li>
 </ul>
@@ -42,7 +39,7 @@
 
 <a href="https://www.linkedin.com/in/thales-da-silva-7588451b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-## &nbsp; Conhecimento em
+## &nbsp; These are my skills
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -55,3 +52,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+<h3><p></p>If you want to contact: send a message on LinkedIn or send an email to thales.infor144@gmail.com</h3>p></h3>
+
+### Best Regards, Thales da Silva Santos !
