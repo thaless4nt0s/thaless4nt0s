@@ -17,8 +17,8 @@
   <li>
     <ul>
     <li> 📚 certifications </li>
-      <li> JavaScript FullStack OneBitCode - 2021 (50 horas) </li>
-      <li> PHP advanced at Universidade do Trabalho Digital - 2018 (120 horas)</li>
+      <li> JavaScript FullStack OneBitCode - 2021 (50 hours) </li>
+      <li> PHP advanced at Universidade do Trabalho Digital - 2018 (120 hours)</li>
       <li> Fluent in english</li>
       <li> Studying spanish at Núcleo de Linguas estrangeiras - UECE - 2023.1 - nowadays </li>
      </ul>
