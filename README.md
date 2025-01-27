@@ -1,5 +1,5 @@
 ### Welcome to my profile !
-### My name is Thales. I'm 22 years old
+### My name is Thales. I'm 23 years old
 ### I'm a Backend Developer 👋
 
 
@@ -8,11 +8,11 @@
     🎓 Studying Computer Science at IFCE Campus Maracanaú, graduation in December 2023.
   </li>
   <li>
-    Working as a Backend Developer at Plataforma Cera (OCT/2023 - )
+    I worked as a Backend Developer at Plataforma Cera (OCT/2023 - JUL 2024)
     Backend Developer: Develop REST APIs using Node.js, fix bugs, and maintain the API.
   </li>
   <li>
-    I've worked as a Web Developer fullstack at NWSOFT (OCT/2021 - JUL/2022) company, I've worked with PHP, MYSQL, HTML, CSS, JAVASCRIPT and AWS technologies;
+    I worked as a Web Developer fullstack at NWSOFT (OCT/2021 - JUL/2022) company, I've worked with PHP, MYSQL, HTML, CSS, JAVASCRIPT and AWS technologies;
   </li>
   <li>
     <ul>
@@ -20,7 +20,8 @@
       <li> JavaScript FullStack OneBitCode - 2021 (50 hours) </li>
       <li> PHP advanced at Universidade do Trabalho Digital - 2018 (120 hours)</li>
       <li> Fluent in english</li>
-      <li> Studying spanish at Núcleo de Linguas estrangeiras - UECE - 2023.1 - nowadays </li>
+      <li> Web Developer - PHP, Laravel as well as VueJS</li>
+      <li> I Have studied spanish at Núcleo de Linguas estrangeiras - UECE - 2023.1 - nowadays </li>
      </ul>
   </li>
   <li>
