@@ -20,7 +20,7 @@
     <li>Resolved bugs and enhanced system performance, improving user experience and reducing response time by 3%.</li>
 </ul>
 <hr>
-<h5>📚 certifications </h5>
+<h4>📚 certifications </h4>
 <ul>
     <li><strong>Spanish Studies:</strong> Núcleo de Línguas Estrangeiras - UECE (2023.1 - Present)</li>
     <li><strong>Web Development:</strong> PHP, Laravel, and Vue.js (2024)</li>
@@ -31,7 +31,7 @@
 </ul>
 
 <hr>
-<h5>🎓 Hard Skills:</h5>
+<h4>🎓 Hard Skills:</h4>
 <ul>
     <li><strong>Backend:</strong> PHP, Node.js, Express.js, Laravel</li>
     <li><strong>Frontend:</strong> HTML/CSS, JavaScript, Vue.js, Materialize, Bootstrap, Bulma, jQuery</li>
@@ -42,7 +42,7 @@
 </ul>
 
 <hr>
-<h5>🎓 Soft Skills:</h5>
+<h4>🎓 Soft Skills:</h4>
 <ul>
     <li><strong>Proactive:</strong> Always takes initiative and seeks continuous improvement.</li>
     <li><strong>Strong Expectation Management:</strong> Effectively communicates and aligns goals.</li>
