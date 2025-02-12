@@ -1,63 +1,64 @@
 ### Welcome to my profile !
-### My name is Thales. I'm 23 years old
-### I'm a Backend Developer 👋
+### My name is Thales da Silva Santos. I'm 23 years old Brazilian
+### I'm a FullStack Developer 👋
 
+<h4>🎓 Bachelor's Degree in Computer Science from IFCE - Campus Maracanaú (Expected September 2024)</h4>
+<hr>
+
+<h2>Professional Experience</h2>
+<h5>Backend Developer at Plataforma Cera (Oct 2023 - Jun 2024)</h5>
 
 <ul>
-  <li>
-    🎓 Studying Computer Science at IFCE Campus Maracanaú, graduation in December 2023.
-  </li>
-  <li>
-    I worked as a Backend Developer at Plataforma Cera (OCT/2023 - JUL 2024)
-    Backend Developer: Develop REST APIs using Node.js, fix bugs, and maintain the API.
-  </li>
-  <li>
-    I worked as a Web Developer fullstack at NWSOFT (OCT/2021 - JUL/2022) company, I've worked with PHP, MYSQL, HTML, CSS, JAVASCRIPT and AWS technologies;
-  </li>
-  <li>
-    <ul>
-    <li> 📚 certifications </li>
-      <li> JavaScript FullStack OneBitCode - 2021 (50 hours) </li>
-      <li> PHP advanced at Universidade do Trabalho Digital - 2018 (120 hours)</li>
-      <li> Fluent in english</li>
-      <li> Web Developer - PHP, Laravel as well as VueJS</li>
-      <li> I Have studied spanish at Núcleo de Linguas estrangeiras - UECE - 2023.1 - nowadays </li>
-     </ul>
-  </li>
-  <li>
-    <ul>
-      <li>🎓 Skills: </li>
-      <li>Proactive</li>
-      <li>Self-taught</li>
-      <li>Organized</li>
-      <li>Motivated</li>
-      <li>SCRUM/KANBAN</li>
-     </ul>
-  </li>
+    <li>Developed new APIs using Node.js, fixed bugs, and implemented new features while maintaining software systems. Improved software performance by 10% through optimized code and system enhancements.</li>
+    <li>Created unit tests with a success rate of over 95%.</li>
+    <li>Built an API for <a href="https://ceralocal.com.br/">Cera Local</a>, a search engine for automotive services near the user’s residence, contributing to a 17% increase in new users.</li>
 </ul>
-<br>
+
+<h5>Full-Stack Web Developer at NWSOFT (Oct 2021 - Mar 2022)</h5>
+<ul>
+    <li>Maintained and optimized software, developed new features, and applied best coding practices.</li>
+    <li>Resolved bugs and enhanced system performance, improving user experience and reducing response time by 3%.</li>
+</ul>
+<hr>
+<h5>📚 certifications </h5>
+<ul>
+    <li><strong>Spanish Studies:</strong> Núcleo de Línguas Estrangeiras - UECE (2023.1 - Present)</li>
+    <li><strong>Web Development:</strong> PHP, Laravel, and Vue.js (2024)</li>
+    <li><strong>TypeScript:</strong> From Basic to Advanced (2023)</li>
+    <li><strong>JavaScript FullStack:</strong> OneBitCode (2021, 50 hours)</li>
+    <li><strong>Advanced PHP:</strong> Universidade do Trabalho Digital (2018)</li>
+    <li><strong>English Course:</strong> (2016-2018)</li>
+</ul>
+
+<hr>
+<h5>🎓 Hard Skills:</h5>
+<ul>
+    <li><strong>Backend:</strong> PHP, Node.js, Express.js, Laravel</li>
+    <li><strong>Frontend:</strong> HTML/CSS, JavaScript, Vue.js, Materialize, Bootstrap, Bulma, jQuery</li>
+    <li><strong>Databases:</strong> MySQL, NoSQL, MongoDB, Relational Databases, Non-Relational Databases</li>
+    <li><strong>DevOps & Tools:</strong> Docker, Linux/UNIX, Git, Visual Studio</li>
+    <li><strong>Package Managers:</strong> npm, pnpm</li>
+    <li><strong>APIs & Testing:</strong> RESTful APIs, Unit Testing, Jest</li>
+</ul>
+
+<hr>
+<h5>🎓 Soft Skills:</h5>
+<ul>
+    <li><strong>Proactive:</strong> Always takes initiative and seeks continuous improvement.</li>
+    <li><strong>Strong Expectation Management:</strong> Effectively communicates and aligns goals.</li>
+    <li><strong>Self-Taught:</strong> Quickly learns new technologies and adapts to challenges.</li>
+    <li><strong>Emotionally Intelligent:</strong> Understands and manages emotions effectively.</li>
+    <li><strong>Motivated:</strong> Driven to achieve goals with passion and dedication.</li>
+    <li><strong>Intelligent:</strong> Analytical thinker with problem-solving skills.</li>
+    <li><strong>Flexible:</strong> Adaptable to different situations and work environments.</li>
+</ul>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaless4nt0s&theme=dark&show_icons=true)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaless4nt0s&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<hr>
 
-<a href="https://www.linkedin.com/in/thales-da-silva-7588451b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<h3>Contact</h3>
+<p>If you want to get in touch, feel free to send me a message on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> or email me at <a href="mailto:thales.infor144@gmail.com">thales.infor144@gmail.com</a>.</p>
 
-## &nbsp; These are my skills
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<h3><p>If you want to contact: send a message on LinkedIn or send an email to thales.infor144@gmail.com</p></h3>
-
-### Best Regards, Thales da Silva Santos !
+<p>Best regards,<br>Thales da Silva Santos</p>
