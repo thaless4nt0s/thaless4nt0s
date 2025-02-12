@@ -1,6 +1,6 @@
-### Welcome to my profile !
-### My name is Thales da Silva Santos. I'm 23 years old Brazilian
-### I'm a FullStack Developer 👋
+### Welcome to my profile!  
+### My name is Thales da Silva Santos. I'm a 23-year-old Brazilian.  
+### I'm a Full-Stack Developer 👋  
 
 <h4>🎓 Bachelor's Degree in Computer Science from IFCE - Campus Maracanaú (Expected September 2024)</h4>
 <hr>
