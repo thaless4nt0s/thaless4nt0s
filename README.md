@@ -59,6 +59,6 @@
 <hr>
 
 <h3>Contact</h3>
-<p>If you want to get in touch, feel free to send me a message on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> or email me at <a href="mailto:thales.infor144@gmail.com">thales.infor144@gmail.com</a>.</p>
+<p>If you want to get in touch, feel free to send me a message on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">LinkedIn</a> or email me at <a href="mailto:thalesdasilvasantos123@hotmail.com">thalesdasilvasantos123@hotmail.com</a>.</p>
 
 <p>Best regards,<br>Thales da Silva Santos</p>
