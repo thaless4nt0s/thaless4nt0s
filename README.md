@@ -2,7 +2,7 @@
 ### My name is Thales da Silva Santos. I'm a 23-year-old Brazilian.  
 ### I'm a Full-Stack Developer 👋  
 
-<h4>🎓 Bachelor's Degree in Computer Science from IFCE - Campus Maracanaú (Expected September 2024)</h4>
+<h4>🎓 Bachelor's Degree in Computer Science from IFCE - Campus Maracanaú - September 2024</h4>
 <hr>
 
 <h2>Professional Experience</h2>
