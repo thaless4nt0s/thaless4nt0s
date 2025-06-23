@@ -25,7 +25,7 @@
     <li>Built an API for <a href="https://ceralocal.com.br/">Cera Local</a>, a search engine for automotive services near the user’s residence, contributing to a 17% increase in new users.</li>
 </ul>
 
-<h4>Full-Stack Web Developer at NWSOFT (Oct 2021 - Mar 2022)</h4>
+<h4>Full-Stack Web Developer at GPM Soluções (Oct 2021 - Mar 2022)</h4>
 <ul>
     <li>Maintained and optimized software, developed new features, and applied best coding practices.</li>
     <li>Resolved bugs and enhanced system performance, improving user experience and reducing response time by 3%.</li>
