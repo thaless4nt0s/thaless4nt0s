@@ -6,6 +6,17 @@
 <hr>
 
 <h2>Professional Experience</h2>
+<h4>Backend Developer at Agility Soluções (Jun 2025 - to Present)</h4>
+
+<ul>
+    <li>Develop, maintain and evolve scalable, secure, and high-performance API and backend services, primarily using PHP with Laravel Framework.</li>
+    <li>Actively participate in the conception, architecture, development, and testing phases of technical solutions.</li>
+    <li>Collaborate with Product Owners, Designers, and other development team members to transform bussiness requirement into efficient technical solutions.</li>
+    <li>Propose continuous improvements in the architecture, security, performance, and reliability of existing applications.</li>
+    <li>Work on the integration with databases, third-party APIs, and infrastructure services.</li>
+    <li>Write clean, reusable code following best practices for version control and documentation.</li>
+</ul>
+
 <h4>Backend Developer at Plataforma Cera (Oct 2023 - Jun 2024)</h4>
 
 <ul>
@@ -36,7 +47,7 @@
     <li><strong>Backend:</strong> PHP, Node.js, Express.js, Laravel</li>
     <li><strong>Frontend:</strong> HTML/CSS, JavaScript, Vue.js, Materialize, Bootstrap, Bulma, jQuery</li>
     <li><strong>Databases:</strong> MySQL, NoSQL, MongoDB, Relational Databases, Non-Relational Databases</li>
-    <li><strong>DevOps & Tools:</strong> Docker, Linux/UNIX, Git, Visual Studio</li>
+    <li><strong>DevOps & Tools:</strong> Docker, Linux/UNIX, Git, Visual Studio, JIRA FRAMEWORK</li>
     <li><strong>Package Managers:</strong> npm, pnpm</li>
     <li><strong>APIs & Testing:</strong> RESTful APIs, Unit Testing, Jest</li>
 </ul>
