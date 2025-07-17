@@ -22,9 +22,11 @@
 </div>
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaless4nt0s&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaless4nt0s&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaless4nt0s&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaless4nt0s&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
 <hr>
 <div>
     
