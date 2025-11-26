@@ -1,5 +1,5 @@
 ### Welcome to my profile!  
-### My name is Thales da Silva Santos. I'm a 23-year-old Brazilian and I'm a Backend Developer.  
+### My name is Thales da Silva Santos. I'm a 24-year-old Brazilian and I'm a Backend Developer.  
 
 ### 🎓 Bachelor's Degree in Computer Science from IFCE - Campus Maracanaú - September 2024</h4>
 ### I'm currently working at <a href="https://www.agility.com.br/" target="_blank">Agility Soluções</a> as a Backend Developer.</h4>
